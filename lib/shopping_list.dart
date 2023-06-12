@@ -39,7 +39,7 @@ class _MyShoppingListState extends State<MyShoppingList> {
           ),
           ListTile(
             leading: Icon(Icons.computer,size: 30,),
-            title: Text('laptop',style: TextStyle(fontSize:25),),
+            title: Text('Laptop',style: TextStyle(fontSize:25),),
           ),
           ListTile(
             leading: Icon(Icons.phone_android,size: 30,),
