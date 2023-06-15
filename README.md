@@ -1,18 +1,1 @@
-# my_shopping_list_live_test
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-https://github.com/goutam2597/ShoppingListLiveTest/blob/main/Screenshot_20230612_233140.png
+![Screenshot_20230612_233140](https://github.com/goutam2597/ShoppingListLiveTest/assets/134217195/2504cea2-5d93-4d59-be72-2b1195736031)
